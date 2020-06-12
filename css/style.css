@@ -5,7 +5,7 @@
 }
 #wapper{
 	width: 1920px;
-	height: 3000px;
+	height:1800px;
 	margin: 0 auto 0 auto;
 	background-color: #202020;
 	
@@ -16,14 +16,20 @@
 .logo{
 	height: 65px;
 	width:  65px;
-	background-color: white;
 	float: left;
+}
+.logo img{
+	height: auto;
+	width: 65px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 40px;
 }
 .seach{
 	height: 45px;
 	width: 450px;
 	border-radius: 10px;
-	margin-left: 20px;
+	margin-left: 60px;
 	margin-right: 20px;
 	margin-top: 10px;
 	float: left;
@@ -200,10 +206,19 @@ input[type=text] {
 	width: 1560px;
 	height: 570px;
 	margin-top: 50px;
+	
 }
 .footer{
-	height: 180px;
-	background-color: #303030;	
-}
+	height: 100px;
+	background-color: #303030;
 
+}
+.footer a{
+	text-decoration: none;
+	color: #C6C6C6;
+	margin-top: 40px;
+}
+.footer a:hover{
+	color: white;
+}
 
