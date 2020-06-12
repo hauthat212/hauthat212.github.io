@@ -2,6 +2,8 @@
 *{
 	margin: 0;
 	pading: 0;
+	font-family: 'Lato', sans-serif;
+	src: url("https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet")
 }
 #wapper{
 	width: 1920px;
