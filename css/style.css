@@ -149,10 +149,20 @@ html {
 	box-sizing: border-box;
 	border-radius: 10px;
 }
+.waybox img{
+	position: absolute;
+	top:1330px;
+	left: 520px;
+/*	background: #B01D1F;*/
+	width: 220px;
+	z-index: 1;
+}
+
 .waybox h1{
 	color: white;
 	font-size: 40px;
 }
+
 .waybox center{
 	margin-left: -46px;
 	padding: 0px;
